@@ -12,7 +12,7 @@ name = ''
 # Check for a history file 
 try:
     with open(filename, 'r') as r: # Load the user's name from the history file 
-        name = json.load(r)
+        name = json.load(r) #from string to json
 except IOError: 
     print("First-time login")
     
@@ -26,6 +26,6 @@ else: # If the history file doesn't exist, ask the user for their name
 # Save the user's name to the history file 
 try:
     with open(filename, 'w') as f: 
-        json.dump(name, f)
+        json.dump(name, f) # from json to string
 except IOError: 
     print("There was a problem writing to the history file.")

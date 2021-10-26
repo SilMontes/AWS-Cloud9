@@ -1,0 +1,1 @@
+{"mime":"text/x-script.python","filter":false,"title":"os_demo.py","tooltip":"/Python OS/os_demo.py","ace":{},"undoManager":{"mark":-1,"position":-1,"stack":[]},"timestamp":1635270198386,"hash":"9dbbf101355850adb694c9ab864da2bc35015687"}
