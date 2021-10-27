@@ -1,0 +1,9 @@
+DEBUG:root:end assert
+DEBUG:root:<class 'AssertionError'>
+DEBUG:root:<class 'AssertionError'>
+DEBUG:root:<class 'AssertionError'>
+DEBUG:root:The number is greater that 4
+DEBUG:root:f{valueToCheck} is greater than 4
+DEBUG:root:3 is greater than 4
+DEBUG:root:The number must be greater than 0
+DEBUG:root:The number must be greater than 0
